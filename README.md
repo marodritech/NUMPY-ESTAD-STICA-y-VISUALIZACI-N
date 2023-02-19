@@ -40,12 +40,13 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
              
   - EDA básico y estudio de los principales métodos estadísticos básicos.
   
-      Estadística-2:
+  Estadística-2:
       
    - Estudio de los principales métodos estadísticos más avanzados.
-   - 
-             Estadística-3:
-              - Estudio básico de la relación de las variables entre si.
+  
+  Estadística-3:
+             
+   - Estudio básico de la relación de las variables entre si.
 
 
    En el archivo de Repaso Conceptos EStadística y visualización exploramos un dataframe de IMDB con información sobre películas, haciendo un breve repaso de lo aprendido en los archivos anteriores.
