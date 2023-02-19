@@ -20,13 +20,14 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
        
     - Python
 - Librerías:
-       - Numpy 
-       - Pandas
-       - Matplotlib
-       - Seaborn
-        - Scipy
+
+     - Numpy 
+     - Pandas
+     - Matplotlib
+     - Seaborn
+      - Scipy
 - Programa: 
-       - Visual Studio Code
+    - Visual Studio Code
 
 # Contenidos :
 ***
@@ -35,7 +36,8 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
   
    En los archivos "Estadística-1", "Estadística-2" y "Estadística-3" exploraremos un dataframe con datos sobre el coste de vida a nivel mundial, más concretamente:
              Estadística-1:
-                    - EDA básico y estudio de los principales métodos estadísticos básicos.
+             
+  - EDA básico y estudio de los principales métodos estadísticos básicos.
              Estadística-2:
                     - Estudio de los principales métodos estadísticos más avanzados.
              Estadística-3:
@@ -46,7 +48,8 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
   
   
    Ejercicios de acercamiento a la librería de Numpy donde mostramos:
-             - Creación de arrays de diferentes tipo de dimensión.
+   
+  - Creación de arrays de diferentes tipo de dimensión.
              - Métodos de chequeo de las propiedades básicas de un array.
              - Creación de matrices
              - Operaciones matemáticas y estadísticas entre matrices/ arrays.
