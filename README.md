@@ -18,20 +18,22 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 
 - Lenguaje: 
        
-    Python
+    - Python
 - Librerías:
-Numpy 
-Pandas
-             Matplotlib
-             Seaborn
-             Scipy
-- Programa: Visual Studio Code
+       - Numpy 
+       - Pandas
+       - Matplotlib
+       - Seaborn
+        - Scipy
+- Programa: 
+       - Visual Studio Code
 
 # Contenidos :
 ***
 
   ESTADÍSTICA Y VISUALIZACIÓN:
-    En los archivos "Estadística-1", "Estadística-2" y "Estadística-3" exploraremos un dataframe con datos sobre el coste de vida a nivel mundial, más concretamente:
+  
+   En los archivos "Estadística-1", "Estadística-2" y "Estadística-3" exploraremos un dataframe con datos sobre el coste de vida a nivel mundial, más concretamente:
              Estadística-1:
                     - EDA básico y estudio de los principales métodos estadísticos básicos.
              Estadística-2:
@@ -41,7 +43,9 @@ Pandas
     En el archivo de Repaso Conceptos EStadística y visualización exploramos un dataframe de IMDB con información sobre películas, haciendo un breve repaso de lo aprendido en los archivos anteriores.
                 
   NUMPY:
-    Ejercicios de acercamiento a la librería de Numpy donde mostramos:
+  
+  
+   Ejercicios de acercamiento a la librería de Numpy donde mostramos:
              - Creación de arrays de diferentes tipo de dimensión.
              - Métodos de chequeo de las propiedades básicas de un array.
              - Creación de matrices
