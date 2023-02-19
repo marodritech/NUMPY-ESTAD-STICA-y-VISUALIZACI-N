@@ -36,15 +36,15 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
   
    En los archivos "Estadística-1", "Estadística-2" y "Estadística-3" exploraremos un dataframe con datos sobre el coste de vida a nivel mundial, más concretamente:
    
-  Estadística-1:
+  "Estadística-1":
              
   - EDA básico y estudio de los principales métodos estadísticos básicos.
   
-  Estadística-2:
+  "Estadística-2":
       
    - Estudio de los principales métodos estadísticos más avanzados.
   
-  Estadística-3:
+  "Estadística-3":
              
    - Estudio básico de la relación de las variables entre si.
 
@@ -58,10 +58,10 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
    
   - Creación de arrays de diferentes tipo de dimensión.
   - Métodos de chequeo de las propiedades básicas de un array.
-           - Creación de matrices
-            - Operaciones matemáticas y estadísticas entre matrices/ arrays.
-             - Uso de conjuntos.
-            - Indexaciones.
+  - Creación de matrices
+  - Operaciones matemáticas y estadísticas entre matrices/ arrays.
+  - Uso de conjuntos.
+  - Indexaciones.
   
   
   # Integrantes :
