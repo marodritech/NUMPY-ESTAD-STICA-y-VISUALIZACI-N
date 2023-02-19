@@ -16,9 +16,12 @@ En este repositorio encontramos los ejercicios realizados en pair programing cor
 # Info técnica :
 *** 
 
-- Lenguaje: Python
-- Librerías: Numpy 
-             Pandas
+- Lenguaje: 
+       
+    Python
+- Librerías:
+Numpy 
+Pandas
              Matplotlib
              Seaborn
              Scipy
